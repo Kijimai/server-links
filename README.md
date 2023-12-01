@@ -26,7 +26,15 @@ Install Puppeteer on ubuntu server
 
 - https://atakde.medium.com/installing-puppeteer-to-digitalocean-56d71a83eb05
 
-Etc
+Chromium
+
+- https://www.chromium.org/getting-involved/download-chromium/
+- https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer
+  Etc
 
 - https://geedew.com/What-does-unsafe-perm-in-npm-actually-do/
+  "It’s starting to make a bit more sense. This issue that I’m facing is that the permissions my current user has are unable to create the symlinks that are being asked by the program. By setting unsafe-perm to true will force NPM to attempt to always run within the context of the running script.
+
+I suppose that this isn’t ‘unsafe’ but it does force the package installer to never drop into user and group switching when installing apps. It’s possible then you may end up having the code run as ‘root’ when installing (which could then be considered ‘unsafe’);"
+
 - https://askubuntu.com/questions/378558/unable-to-locate-package-while-trying-to-install-packages-with-apt
