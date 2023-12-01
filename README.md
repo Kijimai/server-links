@@ -18,7 +18,15 @@ Puppeteer - Failed to launch browser process!
 
 - https://github.com/puppeteer/puppeteer/issues/7917
 - https://stackoverflow.com/questions/64117723/puppeteer-failed-to-launch-the-browser-process-spawn
+- https://stackoverflow.com/questions/59979188/error-failed-to-launch-the-browser-process-puppeteer
+- https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md#recommended-enable-user-namespace-cloning
+- https://stackoverflow.com/questions/67873512/puppeteer-error-failed-to-launch-the-browser-process-pthread-create-errorpl
 
 Install Puppeteer on ubuntu server
 
 - https://atakde.medium.com/installing-puppeteer-to-digitalocean-56d71a83eb05
+
+Etc
+
+- https://geedew.com/What-does-unsafe-perm-in-npm-actually-do/
+- https://askubuntu.com/questions/378558/unable-to-locate-package-while-trying-to-install-packages-with-apt
