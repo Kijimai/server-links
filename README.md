@@ -30,6 +30,7 @@ Chromium
 
 - https://www.chromium.org/getting-involved/download-chromium/
 - https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer
+- https://www.digitalocean.com/community/questions/is-it-possible-to-launch-x-applications-like-chrome-on-linux-vps-i-need-this-for-testing-purposes (IMPORTANT)
 
 Etc
 
