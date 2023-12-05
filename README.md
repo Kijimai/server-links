@@ -2,6 +2,10 @@
 
 ## Links
 
+Auth0 Refresh Tokens and such
+
+- https://github.com/auth0/express-openid-connect/blob/master/EXAMPLES.md
+
 Create Sudo Enabled User on Ubuntu 18.04
 
 - https://www.digitalocean.com/community/tutorials/how-to-create-a-new-sudo-enabled-user-on-ubuntu-18-04-quickstart
